@@ -30,8 +30,8 @@ p {
 section {
 	border:	1px solid black;
 	background-color: #00FF99;
-	width: 120%;
-	height: 300px;
+	width: 100%;
+	height: 2300px;
 	font-family: Helvetica;
 	color: black;
 	position: relative;
